@@ -56,3 +56,13 @@ a {
 .il{
     text-align: center;
 }
+
+.downbar2{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: palegoldenrod;
+    padding: 1px;
+    text-align: center;     
+}
